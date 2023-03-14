@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /* background: url(./Rummy-Table/TableImg3.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-size: 44%; */
+    background-color: rgb(240, 161, 87);
+    /* background: linear-gradient(to right rgb(240, 161, 87),rgb(235, 113, 14)); */
+}
+
+
+#dealer-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+    border: 2px solid black;
+    margin-top: 4%;
+    border-radius: 20px;
+    margin-right: 22px;
+}
+
+#discards {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 4%;
+    height: 222px;
+}
+
+#dealer-discard-cards img {
+    height: 175px;
+    width: 125px;
+    /* margin: 1px; */
+    border: 2px solid black;
+    /* margin-top: 7%; */
+    border-radius: 20px;
+    margin-right: 77px; 
+    display: inline;
+}
+
+/* #dealer_discard_cards h3 {
+    margin-right: 77px;
+} */
+
+#your_discard_cards img{
+    height: 175px;
+    /* margin: 1px; */
+    border: 2px solid black;
+    /* margin-top: 4%; */
+    border-radius: 20px;
+    /* margin-right: 22px; */
+}
+
+#your-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+    border: 2px solid black;
+    margin-top: 4%;
+    border-radius: 20px;
+    margin-right: 22px;
+}
+
+#text {
+    height: 22px;
+    width: 14%;
+}
+
+.input {
+    margin-top: 4%;
+}
+
+#btn {
+    padding: 7px 7px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 7px;
+    /* background: linear-gradient(to right rgb(240, 161, 87),rgb(235, 113, 14)); */
+}
+
+/* #dealer-discard-cards img{
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-right: 17%;
+} */
+
+#your_discard_cards_img {
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 17%;
+}
+
+.h3-1 {
+    margin-top: 12%;
+    margin-right: 37px; 
+}
+
+.h3-2 {
+    margin-top: 12%;
+    margin-right: 14px; 
+}
+
+/* #dealer-discard-div {
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-right: 17%;
+} */
+
+/* #your-cards {
+    margin-bottom: 77px;
+} */
